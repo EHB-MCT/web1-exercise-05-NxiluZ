@@ -1,0 +1,26 @@
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+    height: 2000px;
+
+
+}
+
+.featured {
+    height: 300px;
+    width: 100%;
+}
+
+.item {
+    position: relative;
+    float: left;
+}
+
+.wonderwoman {
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+
+h1 {
+    color: #147beb;
+}
